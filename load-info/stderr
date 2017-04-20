@@ -1,0 +1,6 @@
+/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/re.py:212: FutureWarning: split() requires a non-empty pattern match.
+  return _compile(pattern, flags).split(string, maxsplit)
+/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/re.py:212: FutureWarning: split() requires a non-empty pattern match.
+  return _compile(pattern, flags).split(string, maxsplit)
+/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/re.py:212: FutureWarning: split() requires a non-empty pattern match.
+  return _compile(pattern, flags).split(string, maxsplit)

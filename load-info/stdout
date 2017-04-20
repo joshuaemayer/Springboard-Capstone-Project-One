@@ -1,0 +1,906 @@
+Changing Directory to: /Users/joshuaemayer/Programming/Springboard/capstone-1/new_beers
+Starting with BID: 100
+Successfully Loaded & Normalized JSON Data for Beer ID 100
+Succesfully Copied Original Dataframe
+Dataframes created:1 Total API Calls Made: 1
+Successfully Loaded & Normalized JSON Data for Beer ID 101
+Successfully Appended Beer 101 to Original Dataframe
+Dataframes created:2 Total API Calls Made: 2
+Successfully Loaded & Normalized JSON Data for Beer ID 102
+Successfully Appended Beer 102 to Original Dataframe
+Dataframes created:3 Total API Calls Made: 3
+Successfully Loaded & Normalized JSON Data for Beer ID 103
+Successfully Appended Beer 103 to Original Dataframe
+Dataframes created:4 Total API Calls Made: 4
+Successfully Loaded & Normalized JSON Data for Beer ID 104
+Successfully Appended Beer 104 to Original Dataframe
+Dataframes created:5 Total API Calls Made: 5
+Successfully Loaded & Normalized JSON Data for Beer ID 105
+Successfully Appended Beer 105 to Original Dataframe
+Dataframes created:6 Total API Calls Made: 6
+Successfully Loaded & Normalized JSON Data for Beer ID 106
+Successfully Appended Beer 106 to Original Dataframe
+Dataframes created:7 Total API Calls Made: 7
+Successfully Loaded & Normalized JSON Data for Beer ID 107
+Successfully Appended Beer 107 to Original Dataframe
+Dataframes created:8 Total API Calls Made: 8
+Successfully Loaded & Normalized JSON Data for Beer ID 108
+Successfully Appended Beer 108 to Original Dataframe
+Dataframes created:9 Total API Calls Made: 9
+Successfully Loaded & Normalized JSON Data for Beer ID 109
+Successfully Appended Beer 109 to Original Dataframe
+Dataframes created:10 Total API Calls Made: 10
+Successfully Loaded & Normalized JSON Data for Beer ID 110
+Successfully Appended Beer 110 to Original Dataframe
+Dataframes created:11 Total API Calls Made: 11
+Successfully Loaded & Normalized JSON Data for Beer ID 111
+Successfully Appended Beer 111 to Original Dataframe
+Dataframes created:12 Total API Calls Made: 12
+API call failed: code: 500 This Beer ID is invalid.
+BID 112 does not exist. Skipping this BID
+Successfully Loaded & Normalized JSON Data for Beer ID 113
+Successfully Appended Beer 113 to Original Dataframe
+Dataframes created:13 Total API Calls Made: 14
+Successfully Loaded & Normalized JSON Data for Beer ID 114
+Successfully Appended Beer 114 to Original Dataframe
+Dataframes created:14 Total API Calls Made: 15
+Successfully Loaded & Normalized JSON Data for Beer ID 115
+Successfully Appended Beer 115 to Original Dataframe
+Dataframes created:15 Total API Calls Made: 16
+Successfully Loaded & Normalized JSON Data for Beer ID 116
+Successfully Appended Beer 116 to Original Dataframe
+Dataframes created:16 Total API Calls Made: 17
+Successfully Loaded & Normalized JSON Data for Beer ID 117
+Successfully Appended Beer 117 to Original Dataframe
+Dataframes created:17 Total API Calls Made: 18
+Successfully Loaded & Normalized JSON Data for Beer ID 118
+Successfully Appended Beer 118 to Original Dataframe
+Dataframes created:18 Total API Calls Made: 19
+Successfully Loaded & Normalized JSON Data for Beer ID 119
+Successfully Appended Beer 119 to Original Dataframe
+Dataframes created:19 Total API Calls Made: 20
+Successfully Loaded & Normalized JSON Data for Beer ID 120
+Successfully Appended Beer 120 to Original Dataframe
+Dataframes created:20 Total API Calls Made: 21
+Successfully Loaded & Normalized JSON Data for Beer ID 121
+Successfully Appended Beer 121 to Original Dataframe
+Dataframes created:21 Total API Calls Made: 22
+Successfully Loaded & Normalized JSON Data for Beer ID 122
+Successfully Appended Beer 122 to Original Dataframe
+Dataframes created:22 Total API Calls Made: 23
+Successfully Loaded & Normalized JSON Data for Beer ID 123
+Successfully Appended Beer 123 to Original Dataframe
+Dataframes created:23 Total API Calls Made: 24
+Successfully Loaded & Normalized JSON Data for Beer ID 124
+Successfully Appended Beer 124 to Original Dataframe
+Dataframes created:24 Total API Calls Made: 25
+Successfully Loaded & Normalized JSON Data for Beer ID 125
+Successfully Appended Beer 125 to Original Dataframe
+Dataframes created:25 Total API Calls Made: 26
+API call failed: code: 500 This Beer ID is invalid.
+BID 126 does not exist. Skipping this BID
+Successfully Loaded & Normalized JSON Data for Beer ID 127
+Successfully Appended Beer 127 to Original Dataframe
+Dataframes created:26 Total API Calls Made: 28
+Successfully Loaded & Normalized JSON Data for Beer ID 128
+Successfully Appended Beer 128 to Original Dataframe
+Dataframes created:27 Total API Calls Made: 29
+Successfully Loaded & Normalized JSON Data for Beer ID 129
+Successfully Appended Beer 129 to Original Dataframe
+Dataframes created:28 Total API Calls Made: 30
+Successfully Loaded & Normalized JSON Data for Beer ID 130
+Successfully Appended Beer 130 to Original Dataframe
+Dataframes created:29 Total API Calls Made: 31
+Successfully Loaded & Normalized JSON Data for Beer ID 131
+Successfully Appended Beer 131 to Original Dataframe
+Dataframes created:30 Total API Calls Made: 32
+Successfully Loaded & Normalized JSON Data for Beer ID 132
+Successfully Appended Beer 132 to Original Dataframe
+Dataframes created:31 Total API Calls Made: 33
+Successfully Loaded & Normalized JSON Data for Beer ID 133
+Successfully Appended Beer 133 to Original Dataframe
+Dataframes created:32 Total API Calls Made: 34
+Successfully Loaded & Normalized JSON Data for Beer ID 134
+Successfully Appended Beer 134 to Original Dataframe
+Dataframes created:33 Total API Calls Made: 35
+Successfully Loaded & Normalized JSON Data for Beer ID 135
+Successfully Appended Beer 135 to Original Dataframe
+Dataframes created:34 Total API Calls Made: 36
+Successfully Loaded & Normalized JSON Data for Beer ID 136
+Successfully Appended Beer 136 to Original Dataframe
+Dataframes created:35 Total API Calls Made: 37
+Successfully Loaded & Normalized JSON Data for Beer ID 137
+Successfully Appended Beer 137 to Original Dataframe
+Dataframes created:36 Total API Calls Made: 38
+Successfully Loaded & Normalized JSON Data for Beer ID 138
+Successfully Appended Beer 138 to Original Dataframe
+Dataframes created:37 Total API Calls Made: 39
+API call failed: code: 500 This Beer ID is invalid.
+BID 139 does not exist. Skipping this BID
+Successfully Loaded & Normalized JSON Data for Beer ID 140
+Successfully Appended Beer 140 to Original Dataframe
+Dataframes created:38 Total API Calls Made: 41
+Successfully Loaded & Normalized JSON Data for Beer ID 141
+Successfully Appended Beer 141 to Original Dataframe
+Dataframes created:39 Total API Calls Made: 42
+Successfully Loaded & Normalized JSON Data for Beer ID 142
+Successfully Appended Beer 142 to Original Dataframe
+Dataframes created:40 Total API Calls Made: 43
+Successfully Loaded & Normalized JSON Data for Beer ID 143
+Successfully Appended Beer 143 to Original Dataframe
+Dataframes created:41 Total API Calls Made: 44
+Successfully Loaded & Normalized JSON Data for Beer ID 144
+Successfully Appended Beer 144 to Original Dataframe
+Dataframes created:42 Total API Calls Made: 45
+Successfully Loaded & Normalized JSON Data for Beer ID 145
+Successfully Appended Beer 145 to Original Dataframe
+Dataframes created:43 Total API Calls Made: 46
+Successfully Loaded & Normalized JSON Data for Beer ID 146
+Successfully Appended Beer 146 to Original Dataframe
+Dataframes created:44 Total API Calls Made: 47
+Successfully Loaded & Normalized JSON Data for Beer ID 147
+Successfully Appended Beer 147 to Original Dataframe
+Dataframes created:45 Total API Calls Made: 48
+Successfully Loaded & Normalized JSON Data for Beer ID 148
+Successfully Appended Beer 148 to Original Dataframe
+Dataframes created:46 Total API Calls Made: 49
+Successfully Loaded & Normalized JSON Data for Beer ID 149
+Successfully Appended Beer 149 to Original Dataframe
+Dataframes created:47 Total API Calls Made: 50
+Successfully Loaded & Normalized JSON Data for Beer ID 150
+Successfully Appended Beer 150 to Original Dataframe
+Dataframes created:48 Total API Calls Made: 51
+Successfully Loaded & Normalized JSON Data for Beer ID 151
+Successfully Appended Beer 151 to Original Dataframe
+Dataframes created:49 Total API Calls Made: 52
+Successfully Loaded & Normalized JSON Data for Beer ID 152
+Successfully Appended Beer 152 to Original Dataframe
+Dataframes created:50 Total API Calls Made: 53
+Successfully Loaded & Normalized JSON Data for Beer ID 153
+Successfully Appended Beer 153 to Original Dataframe
+Dataframes created:51 Total API Calls Made: 54
+Successfully Loaded & Normalized JSON Data for Beer ID 154
+Successfully Appended Beer 154 to Original Dataframe
+Dataframes created:52 Total API Calls Made: 55
+Successfully Loaded & Normalized JSON Data for Beer ID 155
+Successfully Appended Beer 155 to Original Dataframe
+Dataframes created:53 Total API Calls Made: 56
+Successfully Loaded & Normalized JSON Data for Beer ID 156
+Successfully Appended Beer 156 to Original Dataframe
+Dataframes created:54 Total API Calls Made: 57
+Successfully Loaded & Normalized JSON Data for Beer ID 157
+Successfully Appended Beer 157 to Original Dataframe
+Dataframes created:55 Total API Calls Made: 58
+Successfully Loaded & Normalized JSON Data for Beer ID 158
+Successfully Appended Beer 158 to Original Dataframe
+Dataframes created:56 Total API Calls Made: 59
+Successfully Loaded & Normalized JSON Data for Beer ID 159
+Successfully Appended Beer 159 to Original Dataframe
+Dataframes created:57 Total API Calls Made: 60
+Successfully Loaded & Normalized JSON Data for Beer ID 160
+Successfully Appended Beer 160 to Original Dataframe
+Dataframes created:58 Total API Calls Made: 61
+Successfully Loaded & Normalized JSON Data for Beer ID 161
+Successfully Appended Beer 161 to Original Dataframe
+Dataframes created:59 Total API Calls Made: 62
+Successfully Loaded & Normalized JSON Data for Beer ID 162
+Successfully Appended Beer 162 to Original Dataframe
+Dataframes created:60 Total API Calls Made: 63
+Successfully Loaded & Normalized JSON Data for Beer ID 163
+Successfully Appended Beer 163 to Original Dataframe
+Dataframes created:61 Total API Calls Made: 64
+Successfully Loaded & Normalized JSON Data for Beer ID 164
+Successfully Appended Beer 164 to Original Dataframe
+Dataframes created:62 Total API Calls Made: 65
+Successfully Loaded & Normalized JSON Data for Beer ID 165
+Successfully Appended Beer 165 to Original Dataframe
+Dataframes created:63 Total API Calls Made: 66
+Successfully Loaded & Normalized JSON Data for Beer ID 166
+Successfully Appended Beer 166 to Original Dataframe
+Dataframes created:64 Total API Calls Made: 67
+Successfully Loaded & Normalized JSON Data for Beer ID 167
+Successfully Appended Beer 167 to Original Dataframe
+Dataframes created:65 Total API Calls Made: 68
+Successfully Loaded & Normalized JSON Data for Beer ID 168
+Successfully Appended Beer 168 to Original Dataframe
+Dataframes created:66 Total API Calls Made: 69
+Successfully Loaded & Normalized JSON Data for Beer ID 169
+Successfully Appended Beer 169 to Original Dataframe
+Dataframes created:67 Total API Calls Made: 70
+Successfully Loaded & Normalized JSON Data for Beer ID 170
+Successfully Appended Beer 170 to Original Dataframe
+Dataframes created:68 Total API Calls Made: 71
+Successfully Loaded & Normalized JSON Data for Beer ID 171
+Successfully Appended Beer 171 to Original Dataframe
+Dataframes created:69 Total API Calls Made: 72
+Successfully Loaded & Normalized JSON Data for Beer ID 172
+Successfully Appended Beer 172 to Original Dataframe
+Dataframes created:70 Total API Calls Made: 73
+Successfully Loaded & Normalized JSON Data for Beer ID 173
+Successfully Appended Beer 173 to Original Dataframe
+Dataframes created:71 Total API Calls Made: 74
+Successfully Loaded & Normalized JSON Data for Beer ID 174
+Successfully Appended Beer 174 to Original Dataframe
+Dataframes created:72 Total API Calls Made: 75
+Successfully Loaded & Normalized JSON Data for Beer ID 175
+Successfully Appended Beer 175 to Original Dataframe
+Dataframes created:73 Total API Calls Made: 76
+Successfully Loaded & Normalized JSON Data for Beer ID 176
+Successfully Appended Beer 176 to Original Dataframe
+Dataframes created:74 Total API Calls Made: 77
+Successfully Loaded & Normalized JSON Data for Beer ID 177
+Successfully Appended Beer 177 to Original Dataframe
+Dataframes created:75 Total API Calls Made: 78
+Successfully Loaded & Normalized JSON Data for Beer ID 178
+Successfully Appended Beer 178 to Original Dataframe
+Dataframes created:76 Total API Calls Made: 79
+Successfully Loaded & Normalized JSON Data for Beer ID 179
+Successfully Appended Beer 179 to Original Dataframe
+Dataframes created:77 Total API Calls Made: 80
+Successfully Loaded & Normalized JSON Data for Beer ID 180
+Successfully Appended Beer 180 to Original Dataframe
+Dataframes created:78 Total API Calls Made: 81
+Successfully Loaded & Normalized JSON Data for Beer ID 181
+Successfully Appended Beer 181 to Original Dataframe
+Dataframes created:79 Total API Calls Made: 82
+Successfully Loaded & Normalized JSON Data for Beer ID 182
+Successfully Appended Beer 182 to Original Dataframe
+Dataframes created:80 Total API Calls Made: 83
+Successfully Loaded & Normalized JSON Data for Beer ID 183
+Successfully Appended Beer 183 to Original Dataframe
+Dataframes created:81 Total API Calls Made: 84
+Successfully Loaded & Normalized JSON Data for Beer ID 184
+Successfully Appended Beer 184 to Original Dataframe
+Dataframes created:82 Total API Calls Made: 85
+Successfully Loaded & Normalized JSON Data for Beer ID 185
+Successfully Appended Beer 185 to Original Dataframe
+Dataframes created:83 Total API Calls Made: 86
+Successfully Loaded & Normalized JSON Data for Beer ID 186
+Successfully Appended Beer 186 to Original Dataframe
+Dataframes created:84 Total API Calls Made: 87
+Successfully Loaded & Normalized JSON Data for Beer ID 187
+Successfully Appended Beer 187 to Original Dataframe
+Dataframes created:85 Total API Calls Made: 88
+Successfully Loaded & Normalized JSON Data for Beer ID 188
+Successfully Appended Beer 188 to Original Dataframe
+Dataframes created:86 Total API Calls Made: 89
+Successfully Loaded & Normalized JSON Data for Beer ID 189
+Successfully Appended Beer 189 to Original Dataframe
+Dataframes created:87 Total API Calls Made: 90
+Successfully Loaded & Normalized JSON Data for Beer ID 190
+Successfully Appended Beer 190 to Original Dataframe
+Dataframes created:88 Total API Calls Made: 91
+Successfully Loaded & Normalized JSON Data for Beer ID 191
+Successfully Appended Beer 191 to Original Dataframe
+Dataframes created:89 Total API Calls Made: 92
+Successfully Loaded & Normalized JSON Data for Beer ID 192
+Successfully Appended Beer 192 to Original Dataframe
+Dataframes created:90 Total API Calls Made: 93
+Successfully Loaded & Normalized JSON Data for Beer ID 193
+Successfully Appended Beer 193 to Original Dataframe
+Dataframes created:91 Total API Calls Made: 94
+Successfully Loaded & Normalized JSON Data for Beer ID 194
+Successfully Appended Beer 194 to Original Dataframe
+Dataframes created:92 Total API Calls Made: 95
+Successfully Loaded & Normalized JSON Data for Beer ID 195
+Successfully Appended Beer 195 to Original Dataframe
+Dataframes created:93 Total API Calls Made: 96
+Successfully Loaded & Normalized JSON Data for Beer ID 196
+Successfully Appended Beer 196 to Original Dataframe
+Dataframes created:94 Total API Calls Made: 97
+Successfully Loaded & Normalized JSON Data for Beer ID 197
+Successfully Appended Beer 197 to Original Dataframe
+Dataframes created:95 Total API Calls Made: 98
+Successfully Loaded & Normalized JSON Data for Beer ID 198
+Successfully Appended Beer 198 to Original Dataframe
+Dataframes created:96 Total API Calls Made: 99
+Successfully Loaded & Normalized JSON Data for Beer ID 199
+Successfully Appended Beer 199 to Original Dataframe
+Dataframes created:97 Total API Calls Made: 100
+Total Beers Acquired: 97
+Final BID Loaded: 199
+Exporting CSV File to: /Users/joshuaemayer/Programming/Springboard/capstone-1/new_beers
+Exporting CSV file as: dataframe_apicalls_100_finalBID_199_.csv
+Changing Directory to: /Users/joshuaemayer/Programming/Springboard/capstone-1/new_beers
+Starting with BID: 199
+Successfully Loaded & Normalized JSON Data for Beer ID 199
+Succesfully Copied Original Dataframe
+Dataframes created:1 Total API Calls Made: 1
+Successfully Loaded & Normalized JSON Data for Beer ID 200
+Successfully Appended Beer 200 to Original Dataframe
+Dataframes created:2 Total API Calls Made: 2
+Successfully Loaded & Normalized JSON Data for Beer ID 201
+Successfully Appended Beer 201 to Original Dataframe
+Dataframes created:3 Total API Calls Made: 3
+Successfully Loaded & Normalized JSON Data for Beer ID 202
+Successfully Appended Beer 202 to Original Dataframe
+Dataframes created:4 Total API Calls Made: 4
+Successfully Loaded & Normalized JSON Data for Beer ID 203
+Successfully Appended Beer 203 to Original Dataframe
+Dataframes created:5 Total API Calls Made: 5
+Successfully Loaded & Normalized JSON Data for Beer ID 204
+Successfully Appended Beer 204 to Original Dataframe
+Dataframes created:6 Total API Calls Made: 6
+Successfully Loaded & Normalized JSON Data for Beer ID 205
+Successfully Appended Beer 205 to Original Dataframe
+Dataframes created:7 Total API Calls Made: 7
+Successfully Loaded & Normalized JSON Data for Beer ID 206
+Successfully Appended Beer 206 to Original Dataframe
+Dataframes created:8 Total API Calls Made: 8
+Successfully Loaded & Normalized JSON Data for Beer ID 207
+Successfully Appended Beer 207 to Original Dataframe
+Dataframes created:9 Total API Calls Made: 9
+Successfully Loaded & Normalized JSON Data for Beer ID 208
+Successfully Appended Beer 208 to Original Dataframe
+Dataframes created:10 Total API Calls Made: 10
+Successfully Loaded & Normalized JSON Data for Beer ID 209
+Successfully Appended Beer 209 to Original Dataframe
+Dataframes created:11 Total API Calls Made: 11
+Successfully Loaded & Normalized JSON Data for Beer ID 210
+Successfully Appended Beer 210 to Original Dataframe
+Dataframes created:12 Total API Calls Made: 12
+Successfully Loaded & Normalized JSON Data for Beer ID 211
+Successfully Appended Beer 211 to Original Dataframe
+Dataframes created:13 Total API Calls Made: 13
+Successfully Loaded & Normalized JSON Data for Beer ID 212
+Successfully Appended Beer 212 to Original Dataframe
+Dataframes created:14 Total API Calls Made: 14
+Successfully Loaded & Normalized JSON Data for Beer ID 213
+Successfully Appended Beer 213 to Original Dataframe
+Dataframes created:15 Total API Calls Made: 15
+API call failed: code: 500 This Beer ID is invalid.
+BID 214 does not exist. Skipping this BID
+Successfully Loaded & Normalized JSON Data for Beer ID 215
+Successfully Appended Beer 215 to Original Dataframe
+Dataframes created:16 Total API Calls Made: 17
+Successfully Loaded & Normalized JSON Data for Beer ID 216
+Successfully Appended Beer 216 to Original Dataframe
+Dataframes created:17 Total API Calls Made: 18
+Successfully Loaded & Normalized JSON Data for Beer ID 217
+Successfully Appended Beer 217 to Original Dataframe
+Dataframes created:18 Total API Calls Made: 19
+Successfully Loaded & Normalized JSON Data for Beer ID 218
+Successfully Appended Beer 218 to Original Dataframe
+Dataframes created:19 Total API Calls Made: 20
+Successfully Loaded & Normalized JSON Data for Beer ID 219
+Successfully Appended Beer 219 to Original Dataframe
+Dataframes created:20 Total API Calls Made: 21
+Successfully Loaded & Normalized JSON Data for Beer ID 220
+Successfully Appended Beer 220 to Original Dataframe
+Dataframes created:21 Total API Calls Made: 22
+Successfully Loaded & Normalized JSON Data for Beer ID 221
+Successfully Appended Beer 221 to Original Dataframe
+Dataframes created:22 Total API Calls Made: 23
+Successfully Loaded & Normalized JSON Data for Beer ID 222
+Successfully Appended Beer 222 to Original Dataframe
+Dataframes created:23 Total API Calls Made: 24
+Successfully Loaded & Normalized JSON Data for Beer ID 223
+Successfully Appended Beer 223 to Original Dataframe
+Dataframes created:24 Total API Calls Made: 25
+Successfully Loaded & Normalized JSON Data for Beer ID 224
+Successfully Appended Beer 224 to Original Dataframe
+Dataframes created:25 Total API Calls Made: 26
+Successfully Loaded & Normalized JSON Data for Beer ID 225
+Successfully Appended Beer 225 to Original Dataframe
+Dataframes created:26 Total API Calls Made: 27
+Successfully Loaded & Normalized JSON Data for Beer ID 226
+Successfully Appended Beer 226 to Original Dataframe
+Dataframes created:27 Total API Calls Made: 28
+Successfully Loaded & Normalized JSON Data for Beer ID 227
+Successfully Appended Beer 227 to Original Dataframe
+Dataframes created:28 Total API Calls Made: 29
+Successfully Loaded & Normalized JSON Data for Beer ID 228
+Successfully Appended Beer 228 to Original Dataframe
+Dataframes created:29 Total API Calls Made: 30
+Successfully Loaded & Normalized JSON Data for Beer ID 229
+Successfully Appended Beer 229 to Original Dataframe
+Dataframes created:30 Total API Calls Made: 31
+Successfully Loaded & Normalized JSON Data for Beer ID 230
+Successfully Appended Beer 230 to Original Dataframe
+Dataframes created:31 Total API Calls Made: 32
+Successfully Loaded & Normalized JSON Data for Beer ID 231
+Successfully Appended Beer 231 to Original Dataframe
+Dataframes created:32 Total API Calls Made: 33
+Successfully Loaded & Normalized JSON Data for Beer ID 232
+Successfully Appended Beer 232 to Original Dataframe
+Dataframes created:33 Total API Calls Made: 34
+Successfully Loaded & Normalized JSON Data for Beer ID 233
+Successfully Appended Beer 233 to Original Dataframe
+Dataframes created:34 Total API Calls Made: 35
+API call failed: code: 500 This Beer ID is invalid.
+BID 234 does not exist. Skipping this BID
+API call failed: code: 500 This Beer ID is invalid.
+BID 235 does not exist. Skipping this BID
+Successfully Loaded & Normalized JSON Data for Beer ID 236
+Successfully Appended Beer 236 to Original Dataframe
+Dataframes created:35 Total API Calls Made: 38
+Successfully Loaded & Normalized JSON Data for Beer ID 237
+Successfully Appended Beer 237 to Original Dataframe
+Dataframes created:36 Total API Calls Made: 39
+Successfully Loaded & Normalized JSON Data for Beer ID 238
+Successfully Appended Beer 238 to Original Dataframe
+Dataframes created:37 Total API Calls Made: 40
+Successfully Loaded & Normalized JSON Data for Beer ID 239
+Successfully Appended Beer 239 to Original Dataframe
+Dataframes created:38 Total API Calls Made: 41
+Successfully Loaded & Normalized JSON Data for Beer ID 240
+Successfully Appended Beer 240 to Original Dataframe
+Dataframes created:39 Total API Calls Made: 42
+Successfully Loaded & Normalized JSON Data for Beer ID 241
+Successfully Appended Beer 241 to Original Dataframe
+Dataframes created:40 Total API Calls Made: 43
+Successfully Loaded & Normalized JSON Data for Beer ID 242
+Successfully Appended Beer 242 to Original Dataframe
+Dataframes created:41 Total API Calls Made: 44
+Successfully Loaded & Normalized JSON Data for Beer ID 243
+Successfully Appended Beer 243 to Original Dataframe
+Dataframes created:42 Total API Calls Made: 45
+Successfully Loaded & Normalized JSON Data for Beer ID 244
+Successfully Appended Beer 244 to Original Dataframe
+Dataframes created:43 Total API Calls Made: 46
+Successfully Loaded & Normalized JSON Data for Beer ID 245
+Successfully Appended Beer 245 to Original Dataframe
+Dataframes created:44 Total API Calls Made: 47
+Successfully Loaded & Normalized JSON Data for Beer ID 246
+Successfully Appended Beer 246 to Original Dataframe
+Dataframes created:45 Total API Calls Made: 48
+Successfully Loaded & Normalized JSON Data for Beer ID 247
+Successfully Appended Beer 247 to Original Dataframe
+Dataframes created:46 Total API Calls Made: 49
+API call failed: code: 500 This Beer ID is invalid.
+BID 248 does not exist. Skipping this BID
+Successfully Loaded & Normalized JSON Data for Beer ID 249
+Successfully Appended Beer 249 to Original Dataframe
+Dataframes created:47 Total API Calls Made: 51
+Successfully Loaded & Normalized JSON Data for Beer ID 250
+Successfully Appended Beer 250 to Original Dataframe
+Dataframes created:48 Total API Calls Made: 52
+Successfully Loaded & Normalized JSON Data for Beer ID 251
+Successfully Appended Beer 251 to Original Dataframe
+Dataframes created:49 Total API Calls Made: 53
+Successfully Loaded & Normalized JSON Data for Beer ID 252
+Successfully Appended Beer 252 to Original Dataframe
+Dataframes created:50 Total API Calls Made: 54
+Successfully Loaded & Normalized JSON Data for Beer ID 253
+Successfully Appended Beer 253 to Original Dataframe
+Dataframes created:51 Total API Calls Made: 55
+Successfully Loaded & Normalized JSON Data for Beer ID 254
+Successfully Appended Beer 254 to Original Dataframe
+Dataframes created:52 Total API Calls Made: 56
+Successfully Loaded & Normalized JSON Data for Beer ID 255
+Successfully Appended Beer 255 to Original Dataframe
+Dataframes created:53 Total API Calls Made: 57
+Successfully Loaded & Normalized JSON Data for Beer ID 256
+Successfully Appended Beer 256 to Original Dataframe
+Dataframes created:54 Total API Calls Made: 58
+Successfully Loaded & Normalized JSON Data for Beer ID 257
+Successfully Appended Beer 257 to Original Dataframe
+Dataframes created:55 Total API Calls Made: 59
+Successfully Loaded & Normalized JSON Data for Beer ID 258
+Successfully Appended Beer 258 to Original Dataframe
+Dataframes created:56 Total API Calls Made: 60
+Successfully Loaded & Normalized JSON Data for Beer ID 259
+Successfully Appended Beer 259 to Original Dataframe
+Dataframes created:57 Total API Calls Made: 61
+API call failed: code: 500 This Beer ID is invalid.
+BID 260 does not exist. Skipping this BID
+Successfully Loaded & Normalized JSON Data for Beer ID 261
+Successfully Appended Beer 261 to Original Dataframe
+Dataframes created:58 Total API Calls Made: 63
+Successfully Loaded & Normalized JSON Data for Beer ID 262
+Successfully Appended Beer 262 to Original Dataframe
+Dataframes created:59 Total API Calls Made: 64
+Successfully Loaded & Normalized JSON Data for Beer ID 263
+Successfully Appended Beer 263 to Original Dataframe
+Dataframes created:60 Total API Calls Made: 65
+Successfully Loaded & Normalized JSON Data for Beer ID 264
+Successfully Appended Beer 264 to Original Dataframe
+Dataframes created:61 Total API Calls Made: 66
+Successfully Loaded & Normalized JSON Data for Beer ID 265
+Successfully Appended Beer 265 to Original Dataframe
+Dataframes created:62 Total API Calls Made: 67
+Successfully Loaded & Normalized JSON Data for Beer ID 266
+Successfully Appended Beer 266 to Original Dataframe
+Dataframes created:63 Total API Calls Made: 68
+Successfully Loaded & Normalized JSON Data for Beer ID 267
+Successfully Appended Beer 267 to Original Dataframe
+Dataframes created:64 Total API Calls Made: 69
+Successfully Loaded & Normalized JSON Data for Beer ID 268
+Successfully Appended Beer 268 to Original Dataframe
+Dataframes created:65 Total API Calls Made: 70
+Successfully Loaded & Normalized JSON Data for Beer ID 269
+Successfully Appended Beer 269 to Original Dataframe
+Dataframes created:66 Total API Calls Made: 71
+Successfully Loaded & Normalized JSON Data for Beer ID 270
+Successfully Appended Beer 270 to Original Dataframe
+Dataframes created:67 Total API Calls Made: 72
+Successfully Loaded & Normalized JSON Data for Beer ID 271
+Successfully Appended Beer 271 to Original Dataframe
+Dataframes created:68 Total API Calls Made: 73
+Successfully Loaded & Normalized JSON Data for Beer ID 272
+Successfully Appended Beer 272 to Original Dataframe
+Dataframes created:69 Total API Calls Made: 74
+Successfully Loaded & Normalized JSON Data for Beer ID 273
+Successfully Appended Beer 273 to Original Dataframe
+Dataframes created:70 Total API Calls Made: 75
+Successfully Loaded & Normalized JSON Data for Beer ID 274
+Successfully Appended Beer 274 to Original Dataframe
+Dataframes created:71 Total API Calls Made: 76
+Successfully Loaded & Normalized JSON Data for Beer ID 275
+Successfully Appended Beer 275 to Original Dataframe
+Dataframes created:72 Total API Calls Made: 77
+Successfully Loaded & Normalized JSON Data for Beer ID 276
+Successfully Appended Beer 276 to Original Dataframe
+Dataframes created:73 Total API Calls Made: 78
+Successfully Loaded & Normalized JSON Data for Beer ID 277
+Successfully Appended Beer 277 to Original Dataframe
+Dataframes created:74 Total API Calls Made: 79
+Successfully Loaded & Normalized JSON Data for Beer ID 278
+Successfully Appended Beer 278 to Original Dataframe
+Dataframes created:75 Total API Calls Made: 80
+Successfully Loaded & Normalized JSON Data for Beer ID 279
+Successfully Appended Beer 279 to Original Dataframe
+Dataframes created:76 Total API Calls Made: 81
+Successfully Loaded & Normalized JSON Data for Beer ID 280
+Successfully Appended Beer 280 to Original Dataframe
+Dataframes created:77 Total API Calls Made: 82
+Successfully Loaded & Normalized JSON Data for Beer ID 281
+Successfully Appended Beer 281 to Original Dataframe
+Dataframes created:78 Total API Calls Made: 83
+Successfully Loaded & Normalized JSON Data for Beer ID 282
+Successfully Appended Beer 282 to Original Dataframe
+Dataframes created:79 Total API Calls Made: 84
+Successfully Loaded & Normalized JSON Data for Beer ID 283
+Successfully Appended Beer 283 to Original Dataframe
+Dataframes created:80 Total API Calls Made: 85
+Successfully Loaded & Normalized JSON Data for Beer ID 284
+Successfully Appended Beer 284 to Original Dataframe
+Dataframes created:81 Total API Calls Made: 86
+Successfully Loaded & Normalized JSON Data for Beer ID 285
+Successfully Appended Beer 285 to Original Dataframe
+Dataframes created:82 Total API Calls Made: 87
+Successfully Loaded & Normalized JSON Data for Beer ID 286
+Successfully Appended Beer 286 to Original Dataframe
+Dataframes created:83 Total API Calls Made: 88
+Successfully Loaded & Normalized JSON Data for Beer ID 287
+Successfully Appended Beer 287 to Original Dataframe
+Dataframes created:84 Total API Calls Made: 89
+Successfully Loaded & Normalized JSON Data for Beer ID 288
+Successfully Appended Beer 288 to Original Dataframe
+Dataframes created:85 Total API Calls Made: 90
+Successfully Loaded & Normalized JSON Data for Beer ID 289
+Successfully Appended Beer 289 to Original Dataframe
+Dataframes created:86 Total API Calls Made: 91
+Successfully Loaded & Normalized JSON Data for Beer ID 290
+Successfully Appended Beer 290 to Original Dataframe
+Dataframes created:87 Total API Calls Made: 92
+API call failed: code: 500 This Beer ID is invalid.
+BID 291 does not exist. Skipping this BID
+Successfully Loaded & Normalized JSON Data for Beer ID 292
+Successfully Appended Beer 292 to Original Dataframe
+Dataframes created:88 Total API Calls Made: 94
+Successfully Loaded & Normalized JSON Data for Beer ID 293
+Successfully Appended Beer 293 to Original Dataframe
+Dataframes created:89 Total API Calls Made: 95
+Successfully Loaded & Normalized JSON Data for Beer ID 294
+Successfully Appended Beer 294 to Original Dataframe
+Dataframes created:90 Total API Calls Made: 96
+Successfully Loaded & Normalized JSON Data for Beer ID 295
+Successfully Appended Beer 295 to Original Dataframe
+Dataframes created:91 Total API Calls Made: 97
+Successfully Loaded & Normalized JSON Data for Beer ID 296
+Successfully Appended Beer 296 to Original Dataframe
+Dataframes created:92 Total API Calls Made: 98
+Successfully Loaded & Normalized JSON Data for Beer ID 297
+Successfully Appended Beer 297 to Original Dataframe
+Dataframes created:93 Total API Calls Made: 99
+Successfully Loaded & Normalized JSON Data for Beer ID 298
+Successfully Appended Beer 298 to Original Dataframe
+Dataframes created:94 Total API Calls Made: 100
+Total Beers Acquired: 94
+Final BID Loaded: 298
+Exporting CSV File to: /Users/joshuaemayer/Programming/Springboard/capstone-1/new_beers
+Exporting CSV file as: dataframe_apicalls_100_finalBID_298_.csv
+Changing Directory to: /Users/joshuaemayer/Programming/Springboard/capstone-1/new_beers
+Starting with BID: 298
+Successfully Loaded & Normalized JSON Data for Beer ID 298
+Succesfully Copied Original Dataframe
+Dataframes created:1 Total API Calls Made: 1
+Successfully Loaded & Normalized JSON Data for Beer ID 299
+Successfully Appended Beer 299 to Original Dataframe
+Dataframes created:2 Total API Calls Made: 2
+Successfully Loaded & Normalized JSON Data for Beer ID 300
+Successfully Appended Beer 300 to Original Dataframe
+Dataframes created:3 Total API Calls Made: 3
+Successfully Loaded & Normalized JSON Data for Beer ID 301
+Successfully Appended Beer 301 to Original Dataframe
+Dataframes created:4 Total API Calls Made: 4
+Successfully Loaded & Normalized JSON Data for Beer ID 302
+Successfully Appended Beer 302 to Original Dataframe
+Dataframes created:5 Total API Calls Made: 5
+Successfully Loaded & Normalized JSON Data for Beer ID 303
+Successfully Appended Beer 303 to Original Dataframe
+Dataframes created:6 Total API Calls Made: 6
+Successfully Loaded & Normalized JSON Data for Beer ID 304
+Successfully Appended Beer 304 to Original Dataframe
+Dataframes created:7 Total API Calls Made: 7
+Successfully Loaded & Normalized JSON Data for Beer ID 305
+Successfully Appended Beer 305 to Original Dataframe
+Dataframes created:8 Total API Calls Made: 8
+Successfully Loaded & Normalized JSON Data for Beer ID 306
+Successfully Appended Beer 306 to Original Dataframe
+Dataframes created:9 Total API Calls Made: 9
+Successfully Loaded & Normalized JSON Data for Beer ID 307
+Successfully Appended Beer 307 to Original Dataframe
+Dataframes created:10 Total API Calls Made: 10
+Successfully Loaded & Normalized JSON Data for Beer ID 308
+Successfully Appended Beer 308 to Original Dataframe
+Dataframes created:11 Total API Calls Made: 11
+Successfully Loaded & Normalized JSON Data for Beer ID 309
+Successfully Appended Beer 309 to Original Dataframe
+Dataframes created:12 Total API Calls Made: 12
+Successfully Loaded & Normalized JSON Data for Beer ID 310
+Successfully Appended Beer 310 to Original Dataframe
+Dataframes created:13 Total API Calls Made: 13
+Successfully Loaded & Normalized JSON Data for Beer ID 311
+Successfully Appended Beer 311 to Original Dataframe
+Dataframes created:14 Total API Calls Made: 14
+Successfully Loaded & Normalized JSON Data for Beer ID 312
+Successfully Appended Beer 312 to Original Dataframe
+Dataframes created:15 Total API Calls Made: 15
+Successfully Loaded & Normalized JSON Data for Beer ID 313
+Successfully Appended Beer 313 to Original Dataframe
+Dataframes created:16 Total API Calls Made: 16
+Successfully Loaded & Normalized JSON Data for Beer ID 314
+Successfully Appended Beer 314 to Original Dataframe
+Dataframes created:17 Total API Calls Made: 17
+Successfully Loaded & Normalized JSON Data for Beer ID 315
+Successfully Appended Beer 315 to Original Dataframe
+Dataframes created:18 Total API Calls Made: 18
+Successfully Loaded & Normalized JSON Data for Beer ID 316
+Successfully Appended Beer 316 to Original Dataframe
+Dataframes created:19 Total API Calls Made: 19
+Successfully Loaded & Normalized JSON Data for Beer ID 317
+Successfully Appended Beer 317 to Original Dataframe
+Dataframes created:20 Total API Calls Made: 20
+Successfully Loaded & Normalized JSON Data for Beer ID 318
+Successfully Appended Beer 318 to Original Dataframe
+Dataframes created:21 Total API Calls Made: 21
+Successfully Loaded & Normalized JSON Data for Beer ID 319
+Successfully Appended Beer 319 to Original Dataframe
+Dataframes created:22 Total API Calls Made: 22
+Successfully Loaded & Normalized JSON Data for Beer ID 320
+Successfully Appended Beer 320 to Original Dataframe
+Dataframes created:23 Total API Calls Made: 23
+Successfully Loaded & Normalized JSON Data for Beer ID 321
+Successfully Appended Beer 321 to Original Dataframe
+Dataframes created:24 Total API Calls Made: 24
+Successfully Loaded & Normalized JSON Data for Beer ID 322
+Successfully Appended Beer 322 to Original Dataframe
+Dataframes created:25 Total API Calls Made: 25
+Successfully Loaded & Normalized JSON Data for Beer ID 323
+Successfully Appended Beer 323 to Original Dataframe
+Dataframes created:26 Total API Calls Made: 26
+Successfully Loaded & Normalized JSON Data for Beer ID 324
+Successfully Appended Beer 324 to Original Dataframe
+Dataframes created:27 Total API Calls Made: 27
+Successfully Loaded & Normalized JSON Data for Beer ID 325
+Successfully Appended Beer 325 to Original Dataframe
+Dataframes created:28 Total API Calls Made: 28
+Successfully Loaded & Normalized JSON Data for Beer ID 326
+Successfully Appended Beer 326 to Original Dataframe
+Dataframes created:29 Total API Calls Made: 29
+Successfully Loaded & Normalized JSON Data for Beer ID 327
+Successfully Appended Beer 327 to Original Dataframe
+Dataframes created:30 Total API Calls Made: 30
+Successfully Loaded & Normalized JSON Data for Beer ID 328
+Successfully Appended Beer 328 to Original Dataframe
+Dataframes created:31 Total API Calls Made: 31
+Successfully Loaded & Normalized JSON Data for Beer ID 329
+Successfully Appended Beer 329 to Original Dataframe
+Dataframes created:32 Total API Calls Made: 32
+Successfully Loaded & Normalized JSON Data for Beer ID 330
+Successfully Appended Beer 330 to Original Dataframe
+Dataframes created:33 Total API Calls Made: 33
+Successfully Loaded & Normalized JSON Data for Beer ID 331
+Successfully Appended Beer 331 to Original Dataframe
+Dataframes created:34 Total API Calls Made: 34
+Successfully Loaded & Normalized JSON Data for Beer ID 332
+Successfully Appended Beer 332 to Original Dataframe
+Dataframes created:35 Total API Calls Made: 35
+Successfully Loaded & Normalized JSON Data for Beer ID 333
+Successfully Appended Beer 333 to Original Dataframe
+Dataframes created:36 Total API Calls Made: 36
+Successfully Loaded & Normalized JSON Data for Beer ID 334
+Successfully Appended Beer 334 to Original Dataframe
+Dataframes created:37 Total API Calls Made: 37
+Successfully Loaded & Normalized JSON Data for Beer ID 335
+Successfully Appended Beer 335 to Original Dataframe
+Dataframes created:38 Total API Calls Made: 38
+Successfully Loaded & Normalized JSON Data for Beer ID 336
+Successfully Appended Beer 336 to Original Dataframe
+Dataframes created:39 Total API Calls Made: 39
+API call failed: code: 500 This Beer ID is invalid.
+BID 337 does not exist. Skipping this BID
+API call failed: code: 500 This Beer ID is invalid.
+BID 338 does not exist. Skipping this BID
+Successfully Loaded & Normalized JSON Data for Beer ID 339
+Successfully Appended Beer 339 to Original Dataframe
+Dataframes created:40 Total API Calls Made: 42
+Successfully Loaded & Normalized JSON Data for Beer ID 340
+Successfully Appended Beer 340 to Original Dataframe
+Dataframes created:41 Total API Calls Made: 43
+Successfully Loaded & Normalized JSON Data for Beer ID 341
+Successfully Appended Beer 341 to Original Dataframe
+Dataframes created:42 Total API Calls Made: 44
+Successfully Loaded & Normalized JSON Data for Beer ID 342
+Successfully Appended Beer 342 to Original Dataframe
+Dataframes created:43 Total API Calls Made: 45
+Successfully Loaded & Normalized JSON Data for Beer ID 343
+Successfully Appended Beer 343 to Original Dataframe
+Dataframes created:44 Total API Calls Made: 46
+Successfully Loaded & Normalized JSON Data for Beer ID 344
+Successfully Appended Beer 344 to Original Dataframe
+Dataframes created:45 Total API Calls Made: 47
+API call failed: code: 500 This Beer ID is invalid.
+BID 345 does not exist. Skipping this BID
+Successfully Loaded & Normalized JSON Data for Beer ID 346
+Successfully Appended Beer 346 to Original Dataframe
+Dataframes created:46 Total API Calls Made: 49
+Successfully Loaded & Normalized JSON Data for Beer ID 347
+Successfully Appended Beer 347 to Original Dataframe
+Dataframes created:47 Total API Calls Made: 50
+Successfully Loaded & Normalized JSON Data for Beer ID 348
+Successfully Appended Beer 348 to Original Dataframe
+Dataframes created:48 Total API Calls Made: 51
+Successfully Loaded & Normalized JSON Data for Beer ID 349
+Successfully Appended Beer 349 to Original Dataframe
+Dataframes created:49 Total API Calls Made: 52
+Successfully Loaded & Normalized JSON Data for Beer ID 350
+Successfully Appended Beer 350 to Original Dataframe
+Dataframes created:50 Total API Calls Made: 53
+Successfully Loaded & Normalized JSON Data for Beer ID 351
+Successfully Appended Beer 351 to Original Dataframe
+Dataframes created:51 Total API Calls Made: 54
+Successfully Loaded & Normalized JSON Data for Beer ID 352
+Successfully Appended Beer 352 to Original Dataframe
+Dataframes created:52 Total API Calls Made: 55
+Successfully Loaded & Normalized JSON Data for Beer ID 353
+Successfully Appended Beer 353 to Original Dataframe
+Dataframes created:53 Total API Calls Made: 56
+Successfully Loaded & Normalized JSON Data for Beer ID 354
+Successfully Appended Beer 354 to Original Dataframe
+Dataframes created:54 Total API Calls Made: 57
+Successfully Loaded & Normalized JSON Data for Beer ID 355
+Successfully Appended Beer 355 to Original Dataframe
+Dataframes created:55 Total API Calls Made: 58
+Successfully Loaded & Normalized JSON Data for Beer ID 356
+Successfully Appended Beer 356 to Original Dataframe
+Dataframes created:56 Total API Calls Made: 59
+Successfully Loaded & Normalized JSON Data for Beer ID 357
+Successfully Appended Beer 357 to Original Dataframe
+Dataframes created:57 Total API Calls Made: 60
+Successfully Loaded & Normalized JSON Data for Beer ID 358
+Successfully Appended Beer 358 to Original Dataframe
+Dataframes created:58 Total API Calls Made: 61
+Successfully Loaded & Normalized JSON Data for Beer ID 359
+Successfully Appended Beer 359 to Original Dataframe
+Dataframes created:59 Total API Calls Made: 62
+Successfully Loaded & Normalized JSON Data for Beer ID 360
+Successfully Appended Beer 360 to Original Dataframe
+Dataframes created:60 Total API Calls Made: 63
+Successfully Loaded & Normalized JSON Data for Beer ID 361
+Successfully Appended Beer 361 to Original Dataframe
+Dataframes created:61 Total API Calls Made: 64
+Successfully Loaded & Normalized JSON Data for Beer ID 362
+Successfully Appended Beer 362 to Original Dataframe
+Dataframes created:62 Total API Calls Made: 65
+Successfully Loaded & Normalized JSON Data for Beer ID 363
+Successfully Appended Beer 363 to Original Dataframe
+Dataframes created:63 Total API Calls Made: 66
+Successfully Loaded & Normalized JSON Data for Beer ID 364
+Successfully Appended Beer 364 to Original Dataframe
+Dataframes created:64 Total API Calls Made: 67
+Successfully Loaded & Normalized JSON Data for Beer ID 365
+Successfully Appended Beer 365 to Original Dataframe
+Dataframes created:65 Total API Calls Made: 68
+Successfully Loaded & Normalized JSON Data for Beer ID 366
+Successfully Appended Beer 366 to Original Dataframe
+Dataframes created:66 Total API Calls Made: 69
+Successfully Loaded & Normalized JSON Data for Beer ID 367
+Successfully Appended Beer 367 to Original Dataframe
+Dataframes created:67 Total API Calls Made: 70
+Successfully Loaded & Normalized JSON Data for Beer ID 368
+Successfully Appended Beer 368 to Original Dataframe
+Dataframes created:68 Total API Calls Made: 71
+Successfully Loaded & Normalized JSON Data for Beer ID 369
+Successfully Appended Beer 369 to Original Dataframe
+Dataframes created:69 Total API Calls Made: 72
+Successfully Loaded & Normalized JSON Data for Beer ID 370
+Successfully Appended Beer 370 to Original Dataframe
+Dataframes created:70 Total API Calls Made: 73
+Successfully Loaded & Normalized JSON Data for Beer ID 371
+Successfully Appended Beer 371 to Original Dataframe
+Dataframes created:71 Total API Calls Made: 74
+Successfully Loaded & Normalized JSON Data for Beer ID 372
+Successfully Appended Beer 372 to Original Dataframe
+Dataframes created:72 Total API Calls Made: 75
+Successfully Loaded & Normalized JSON Data for Beer ID 373
+Successfully Appended Beer 373 to Original Dataframe
+Dataframes created:73 Total API Calls Made: 76
+Successfully Loaded & Normalized JSON Data for Beer ID 374
+Successfully Appended Beer 374 to Original Dataframe
+Dataframes created:74 Total API Calls Made: 77
+Successfully Loaded & Normalized JSON Data for Beer ID 375
+Successfully Appended Beer 375 to Original Dataframe
+Dataframes created:75 Total API Calls Made: 78
+Successfully Loaded & Normalized JSON Data for Beer ID 376
+Successfully Appended Beer 376 to Original Dataframe
+Dataframes created:76 Total API Calls Made: 79
+Successfully Loaded & Normalized JSON Data for Beer ID 377
+Successfully Appended Beer 377 to Original Dataframe
+Dataframes created:77 Total API Calls Made: 80
+Successfully Loaded & Normalized JSON Data for Beer ID 378
+Successfully Appended Beer 378 to Original Dataframe
+Dataframes created:78 Total API Calls Made: 81
+Successfully Loaded & Normalized JSON Data for Beer ID 379
+Successfully Appended Beer 379 to Original Dataframe
+Dataframes created:79 Total API Calls Made: 82
+Successfully Loaded & Normalized JSON Data for Beer ID 380
+Successfully Appended Beer 380 to Original Dataframe
+Dataframes created:80 Total API Calls Made: 83
+Successfully Loaded & Normalized JSON Data for Beer ID 381
+Successfully Appended Beer 381 to Original Dataframe
+Dataframes created:81 Total API Calls Made: 84
+Successfully Loaded & Normalized JSON Data for Beer ID 382
+Successfully Appended Beer 382 to Original Dataframe
+Dataframes created:82 Total API Calls Made: 85
+Successfully Loaded & Normalized JSON Data for Beer ID 383
+Successfully Appended Beer 383 to Original Dataframe
+Dataframes created:83 Total API Calls Made: 86
+Successfully Loaded & Normalized JSON Data for Beer ID 384
+Successfully Appended Beer 384 to Original Dataframe
+Dataframes created:84 Total API Calls Made: 87
+Successfully Loaded & Normalized JSON Data for Beer ID 385
+Successfully Appended Beer 385 to Original Dataframe
+Dataframes created:85 Total API Calls Made: 88
+Successfully Loaded & Normalized JSON Data for Beer ID 386
+Successfully Appended Beer 386 to Original Dataframe
+Dataframes created:86 Total API Calls Made: 89
+Successfully Loaded & Normalized JSON Data for Beer ID 387
+Successfully Appended Beer 387 to Original Dataframe
+Dataframes created:87 Total API Calls Made: 90
+Successfully Loaded & Normalized JSON Data for Beer ID 388
+Successfully Appended Beer 388 to Original Dataframe
+Dataframes created:88 Total API Calls Made: 91
+Successfully Loaded & Normalized JSON Data for Beer ID 389
+Successfully Appended Beer 389 to Original Dataframe
+Dataframes created:89 Total API Calls Made: 92
+Successfully Loaded & Normalized JSON Data for Beer ID 390
+Successfully Appended Beer 390 to Original Dataframe
+Dataframes created:90 Total API Calls Made: 93
+Successfully Loaded & Normalized JSON Data for Beer ID 391
+Successfully Appended Beer 391 to Original Dataframe
+Dataframes created:91 Total API Calls Made: 94
+Successfully Loaded & Normalized JSON Data for Beer ID 392
+Successfully Appended Beer 392 to Original Dataframe
+Dataframes created:92 Total API Calls Made: 95
+Successfully Loaded & Normalized JSON Data for Beer ID 393
+Successfully Appended Beer 393 to Original Dataframe
+Dataframes created:93 Total API Calls Made: 96
+Successfully Loaded & Normalized JSON Data for Beer ID 394
+Successfully Appended Beer 394 to Original Dataframe
+Dataframes created:94 Total API Calls Made: 97
+Successfully Loaded & Normalized JSON Data for Beer ID 395
+Successfully Appended Beer 395 to Original Dataframe
+Dataframes created:95 Total API Calls Made: 98
+Successfully Loaded & Normalized JSON Data for Beer ID 396
+Successfully Appended Beer 396 to Original Dataframe
+Dataframes created:96 Total API Calls Made: 99
+Successfully Loaded & Normalized JSON Data for Beer ID 397
+Successfully Appended Beer 397 to Original Dataframe
+Dataframes created:97 Total API Calls Made: 100
+Total Beers Acquired: 97
+Final BID Loaded: 397
+Exporting CSV File to: /Users/joshuaemayer/Programming/Springboard/capstone-1/new_beers
+Exporting CSV file as: dataframe_apicalls_100_finalBID_397_.csv
