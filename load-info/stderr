@@ -3033,3 +3033,140 @@ requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.untappd.com',
   return _compile(pattern, flags).split(string, maxsplit)
 /Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/re.py:212: FutureWarning: split() requires a non-empty pattern match.
   return _compile(pattern, flags).split(string, maxsplit)
+/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/re.py:212: FutureWarning: split() requires a non-empty pattern match.
+  return _compile(pattern, flags).split(string, maxsplit)
+Traceback (most recent call last):
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py", line 345, in _make_request
+    self._validate_conn(conn)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py", line 844, in _validate_conn
+    conn.connect()
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/connection.py", line 326, in connect
+    ssl_context=context)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/util/ssl_.py", line 324, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/ssl.py", line 401, in wrap_socket
+    _context=self, _session=session)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/ssl.py", line 808, in __init__
+    self.do_handshake()
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/ssl.py", line 1061, in do_handshake
+    self._sslobj.do_handshake()
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/ssl.py", line 683, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/adapters.py", line 423, in send
+    timeout=timeout
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py", line 649, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/util/retry.py", line 347, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/packages/six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py", line 345, in _make_request
+    self._validate_conn(conn)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py", line 844, in _validate_conn
+    conn.connect()
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/connection.py", line 326, in connect
+    ssl_context=context)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/util/ssl_.py", line 324, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/ssl.py", line 401, in wrap_socket
+    _context=self, _session=session)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/ssl.py", line 808, in __init__
+    self.do_handshake()
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/ssl.py", line 1061, in do_handshake
+    self._sslobj.do_handshake()
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/ssl.py", line 683, in do_handshake
+    self._sslobj.do_handshake()
+requests.packages.urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/joshuaemayer/Programming/Springboard/capstone-1/Untappd-API-Loading-New-Beers.py", line 102, in <module>
+    r = requests.get(url+beer_info+str(BID)+client_id+client_secret+compact)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/sessions.py", line 488, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/adapters.py", line 473, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/re.py:212: FutureWarning: split() requires a non-empty pattern match.
+  return _compile(pattern, flags).split(string, maxsplit)
+/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/re.py:212: FutureWarning: split() requires a non-empty pattern match.
+  return _compile(pattern, flags).split(string, maxsplit)
+/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/re.py:212: FutureWarning: split() requires a non-empty pattern match.
+  return _compile(pattern, flags).split(string, maxsplit)
+/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/re.py:212: FutureWarning: split() requires a non-empty pattern match.
+  return _compile(pattern, flags).split(string, maxsplit)
+/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/re.py:212: FutureWarning: split() requires a non-empty pattern match.
+  return _compile(pattern, flags).split(string, maxsplit)
+/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/re.py:212: FutureWarning: split() requires a non-empty pattern match.
+  return _compile(pattern, flags).split(string, maxsplit)
+/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/re.py:212: FutureWarning: split() requires a non-empty pattern match.
+  return _compile(pattern, flags).split(string, maxsplit)
+Traceback (most recent call last):
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/connection.py", line 141, in _new_conn
+    (self.host, self.port), self.timeout, **extra_kw)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/socket.py", line 743, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py", line 345, in _make_request
+    self._validate_conn(conn)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py", line 844, in _validate_conn
+    conn.connect()
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/connection.py", line 284, in connect
+    conn = self._new_conn()
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/connection.py", line 150, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+requests.packages.urllib3.exceptions.NewConnectionError: <requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x10e2a0390>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/adapters.py", line 423, in send
+    timeout=timeout
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py", line 649, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/packages/urllib3/util/retry.py", line 376, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+requests.packages.urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.untappd.com', port=443): Max retries exceeded with url: /v4/beer/info/31293?client_id=D9E63A3F203F8A4FDBE5B7E58CEDB2E90FF50AB4&client_secret=C861E23878359F93F1EF3FDB7F233095316C6CA5&compact=true (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x10e2a0390>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/joshuaemayer/Programming/Springboard/capstone-1/Untappd-API-Loading-New-Beers.py", line 102, in <module>
+    r = requests.get(url+beer_info+str(BID)+client_id+client_secret+compact)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/api.py", line 70, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/api.py", line 56, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/sessions.py", line 488, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/site-packages/requests/adapters.py", line 487, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.untappd.com', port=443): Max retries exceeded with url: /v4/beer/info/31293?client_id=D9E63A3F203F8A4FDBE5B7E58CEDB2E90FF50AB4&client_secret=C861E23878359F93F1EF3FDB7F233095316C6CA5&compact=true (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x10e2a0390>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/re.py:212: FutureWarning: split() requires a non-empty pattern match.
+  return _compile(pattern, flags).split(string, maxsplit)
