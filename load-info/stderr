@@ -3170,3 +3170,13 @@ Traceback (most recent call last):
 requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.untappd.com', port=443): Max retries exceeded with url: /v4/beer/info/31293?client_id=D9E63A3F203F8A4FDBE5B7E58CEDB2E90FF50AB4&client_secret=C861E23878359F93F1EF3FDB7F233095316C6CA5&compact=true (Caused by NewConnectionError('<requests.packages.urllib3.connection.VerifiedHTTPSConnection object at 0x10e2a0390>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
 /Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/re.py:212: FutureWarning: split() requires a non-empty pattern match.
   return _compile(pattern, flags).split(string, maxsplit)
+/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/re.py:212: FutureWarning: split() requires a non-empty pattern match.
+  return _compile(pattern, flags).split(string, maxsplit)
+/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/re.py:212: FutureWarning: split() requires a non-empty pattern match.
+  return _compile(pattern, flags).split(string, maxsplit)
+/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/re.py:212: FutureWarning: split() requires a non-empty pattern match.
+  return _compile(pattern, flags).split(string, maxsplit)
+/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/re.py:212: FutureWarning: split() requires a non-empty pattern match.
+  return _compile(pattern, flags).split(string, maxsplit)
+/Users/joshuaemayer/anaconda/envs/python3/lib/python3.6/re.py:212: FutureWarning: split() requires a non-empty pattern match.
+  return _compile(pattern, flags).split(string, maxsplit)
