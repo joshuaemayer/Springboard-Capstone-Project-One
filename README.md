@@ -2,9 +2,9 @@
 
 # Objective
 
-An application like Pandora is great at leveraging mass user data to provide recommendations for your next song, but what if you wanted to have tailored recommendations based on all of the music that you have personally listened to and rated? This is the question I will set out to answer in my initial capstone project. 
+The application “Untappd” was created in late 2010 as a platform that allows its users to “check-in” beers tasted and share these check-ins, along with their individual ratings, with their friends. As an avid user of the application, it is great to be able to maintain a log of personally tasted and rated beers. 
 
-I will create two different recommender systems based on 1) a dataset of ~200 personally rated beers  2) the same dataset but leveraging the average (mass user) ratings. I am looking to compare recommendation and prediction results to understand how my personal tastes differ from the average beer drinker.
+The Untappd application should leverage its user ratings and provides tailored recommendations based on individual user preferences. The objective of my project is to leverage users historical ratings to create predictions for un-tasted beers and create a personalized recommendation for which beer to sample next.
 
 # Target Audience and Why
 
@@ -33,4 +33,6 @@ All of the data will be pulled via the Untappd API. My personal dataset consists
 
 # Deliverables
 
-Associated code, paper, and presentation. In addition, I plan to publish a blog post as my final presentation. 
+Associated code, paper, and presentation are included in the associated files. 
+
+In addition, the final blog post may be found at https://www.linkedin.com/pulse/using-machine-learning-select-my-next-craft-beer-josh-mayer 
